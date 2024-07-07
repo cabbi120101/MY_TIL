@@ -1,0 +1,1 @@
+{"name":"Local: s1","url":"/Users/dongwook/Desktop/TIL/MY_TIL/Python/Daily_algorithm/240706/케빈베이컨1389/s1.py","tests":[{"id":1720268846292,"input":"5 5\n1 3\n1 4\n4 5\n4 3\n3 2","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dongwook/Desktop/TIL/MY_TIL/Python/Daily_algorithm/240706/케빈베이컨1389/s1.py","group":"local","local":true}
